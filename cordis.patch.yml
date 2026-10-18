@@ -1,0 +1,8 @@
+# dsh-think-zh bundle patch：只插入一行 host 侧插件。
+#
+# 这一行由 profile 的 `dsh.profile.bundles` 选中本包后自动叠加；插件自身的配置
+# （语言、是否自检、提示段顺序）留给 profile 的 cordis.patch.yml 覆盖，patch 里
+# 不写死任何 config，避免把默认值钉死在两层。
+- insert:
+    - id: dsh-think-zh
+      name: 'dsh-think-zh'
