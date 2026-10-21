@@ -30,11 +30,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArknightsPlayer/dsh-think-zh.git"
+    "url": "git+https://github.com/Muelsyse2023/dsh-think-zh.git"
   },
-  "homepage": "https://github.com/ArknightsPlayer/dsh-think-zh#readme",
+  "homepage": "https://github.com/Muelsyse2023/dsh-think-zh#readme",
   "bugs": {
-    "url": "https://github.com/ArknightsPlayer/dsh-think-zh/issues"
+    "url": "https://github.com/Muelsyse2023/dsh-think-zh/issues"
   },
   "files": [
     "lib",
