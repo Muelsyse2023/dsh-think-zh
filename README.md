@@ -45,12 +45,12 @@ dsh-think-zh/
 ## 安装
 
 ```bash
-git clone https://github.com/<you>/dsh-think-zh.git
+git clone https://github.com/ArknightsPlayer/dsh-think-zh.git
 dsh plugin --profile web add link:/path/to/dsh-think-zh
 ```
 
 `link:` 安装的是本地目录，改代码后重启（或等 HMR 重载）即可生效，不需要重新安装。也可以装成
-普通依赖：`dsh plugin --profile web add github:<you>/dsh-think-zh`。
+普通依赖：`dsh plugin --profile web add github:ArknightsPlayer/dsh-think-zh`。
 
 包内 `cordis.patch.yml` 声明一行：
 

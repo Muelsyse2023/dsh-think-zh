@@ -20,6 +20,22 @@
   "peerDependencies": {
     "@deepseek-ai/cordis": "^4.0.1"
   },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "reasoning",
+    "thinking",
+    "chinese"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArknightsPlayer/dsh-think-zh.git"
+  },
+  "homepage": "https://github.com/ArknightsPlayer/dsh-think-zh#readme",
+  "bugs": {
+    "url": "https://github.com/ArknightsPlayer/dsh-think-zh/issues"
+  },
   "files": [
     "lib",
     "cordis.patch.yml",
